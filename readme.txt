@@ -1,3 +1,5 @@
+Data files in https://figshare.com/s/6e03c52b7aaefc6afd0a (too big for github)
+
 Parameters for the examples:
 parafilm:
 binning = 2
